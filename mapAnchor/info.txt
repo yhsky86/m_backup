@@ -1,0 +1,9 @@
+map 설정 방법 : 
+iis 켜고,
+사이트 > 웹사이트 추가
+사이트 이름 지정 > 실제 경로만 지정
+
+http://localhost/MapToAnchor.php
+실행
+
+완료
